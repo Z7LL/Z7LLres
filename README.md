@@ -1,7 +1,7 @@
 ## Z7LLres
 Z7LLres is a tool for Windows to save custom settings in Fortnite.
 
-![alphares](https://raw.githubusercontent.com/Z7LL/Z7LLres/master/asset/Z7LLres.png)
+![alphares](https://raw.githubusercontent.com/Z7LL/Z7LLres/master/Z7LLres/asset/Z7LLres.png)
 
 ## Download
 * Go to [Releases](https://github.com/Z7LL/Z7LLres/releases/tag/V2.3.0)
